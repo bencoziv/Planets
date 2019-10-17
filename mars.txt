@@ -1,0 +1,2 @@
+
+ughqpcolorscheme badwolf     " This colorscheme available via plugin.
